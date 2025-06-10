@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpecamacho_techdocs_site=self.webpackChunkpecamacho_techdocs_site||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/dynatrace/blog","blogTitle":"Blog","authorsListPath":"/dynatrace/blog/authors"}')}}]);

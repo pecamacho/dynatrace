@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpecamacho_techdocs_site=self.webpackChunkpecamacho_techdocs_site||[]).push([[6802],{7162:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/dynatrace/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
